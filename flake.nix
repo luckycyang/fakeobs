@@ -35,6 +35,7 @@
                 fd
                 wasm-pack
                 nodePackages.webpack
+                nodePackages.webpack-cli
                 bun
                 rustpkg
               ];
